@@ -1,0 +1,15 @@
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe.config
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.exe
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\WindowsFormsApp1.pdb
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\Newtonsoft.Json.dll
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\SunnyUI.Common.dll
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\SunnyUI.dll
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\bin\x86\Debug\Newtonsoft.Json.xml
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Form2.resources
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.exe
+E:\Test01\WindowsFormsApp1\WindowsFormsApp1\obj\x86\Debug\WindowsFormsApp1.pdb

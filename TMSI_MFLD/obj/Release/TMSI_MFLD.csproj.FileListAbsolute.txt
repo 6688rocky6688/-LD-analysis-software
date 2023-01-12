@@ -1,0 +1,279 @@
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\Reports\Groups.frx
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\TMSI_MFLD.exe.config
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\TMSI_MFLD.exe
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\TMSI_MFLD.pdb
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\FastReport.Bars.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\FastReport.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\FastReport.Editor.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\SunnyUI.Common.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\SunnyUI.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\FastReport.xml
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.MainForm.resources
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.Form2.resources
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.ReportPreview.resources
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.Resources.resources
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.CopyComplete
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.exe
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.pdb
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.TMSI_MFLD_Main.resources
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\DevExpress.Data.v18.1.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\DevExpress.Xpo.v18.1.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\DevExpress.Data.v18.1.xml
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\DevExpress.Xpo.v18.1.xml
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Administrator\Desktop\mfld-analyss-software-new\TMSI_MFLD\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\configuration\configuration.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Reports\Groups.frx
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\TMSI_MFLD.exe.config
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\TMSI_MFLD.exe
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\TMSI_MFLD.pdb
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\en-GB\TMSI_MFLD.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\en-US\TMSI_MFLD.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\CSkin.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DevExpress.Data.v18.1.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DevExpress.Xpo.v18.1.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ExtensionControls.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.Bars.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.Editor.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FormControls.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FunctionClassLibrary.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ICSharpCode.Core.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\MaterialSurface.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.XLS.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\SunnyUI.Common.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\SunnyUI.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Microsoft.mshtml.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DevExpress.Data.v18.1.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DevExpress.Xpo.v18.1.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OOXML.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.XLS.xml
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\de\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\es\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Controls.Btn.UCBtnExtNew.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_ChartShow.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_SpringRateSteup.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_About.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_Logo.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PhotoReportUtility.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PlotPackageUtility.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.TMSI_MFLD_Main.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Form2.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.MainForm.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiPublic.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiResource.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.ReportPreview.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.Resources.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.TMSI_MFLD_Main.en-GB.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiPublic.en-US.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiResource.en-US.resources
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\en-GB\TMSI_MFLD.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\en-US\TMSI_MFLD.resources.dll
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.CopyComplete
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.exe
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.pdb
+C:\Users\Administrator\Desktop\汇总\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.AssemblyReference.cache
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\configuration\configuration.xml
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Reports\Groups.frx
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\TMSI_MFLD.exe.config
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\TMSI_MFLD.exe
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\TMSI_MFLD.pdb
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\en-GB\TMSI_MFLD.resources.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\en-US\TMSI_MFLD.resources.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\CSkin.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ExtensionControls.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.Bars.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.Editor.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FormControls.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FunctionClassLibrary.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ICSharpCode.Core.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\MaterialSurface.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Newtonsoft.Json.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OOXML.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.Pdf.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.XLS.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\SunnyUI.Common.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\SunnyUI.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Microsoft.mshtml.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.xml
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Newtonsoft.Json.xml
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.xml
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OOXML.xml
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.Pdf.xml
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.XLS.xml
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.ResolveComReference.cache
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Controls.Btn.UCBtnExtNew.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_ChartShow.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_SpringRateSteup.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_About.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_Logo.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PhotoReportUtility.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PlotPackageUtility.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ShowDialog.FrmCircleBase.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ShowDialog.Frm_Sd_Excel.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.TMSI_MFLD_Main.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Form2.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.MainForm.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiPublic.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiResource.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.ReportPreview.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.Resources.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.TMSI_MFLD_Main.en-GB.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiPublic.en-US.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiResource.en-US.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.GenerateResource.cache
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.CoreCompileInputs.cache
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\en-GB\TMSI_MFLD.resources.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\en-US\TMSI_MFLD.resources.dll
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.CopyComplete
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.exe
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.pdb
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_SLR_En.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Silp_En.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Silp_MKS.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Silp_SI.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_SLR_MKS.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_SLR_SI.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\MRFLDReport_GB_En.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\MRFLDReport_GB_MKS.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\MRFLDReport_GB_SI.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_SLR.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\SLR report format.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_JinYuFourLDReport_GB.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_JinYuFourLDReport_QB.xls
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PhotoReportUtility_HASETRI.resources
+C:\Users\wzy\Desktop\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PhotoReportUtility_JinYu.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\configuration\configuration.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\configuration\FilePath.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_JinYuFourLDReport_GB.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_JinYuFourLDReport_QB.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Lateral.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Longitudinal.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Radial.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Silp_MKS.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_SLR_En.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_SLR_MKS.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_SLR_SI.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Torsional.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\MRFLDReport_GB_En.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\MRFLDReport_GB_MKS.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\MRFLDReport_GB_SI.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\SLR report format.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Silp_En.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Excel\Excel_Silp_SI.xls
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\TMSI_MFLD.exe.config
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\TMSI_MFLD.exe
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\TMSI_MFLD.pdb
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\en-GB\TMSI_MFLD.resources.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\en-US\TMSI_MFLD.resources.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\CSkin.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ExtensionControls.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.Bars.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.Editor.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FormControls.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FunctionClassLibrary.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\ICSharpCode.Core.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\MaterialSurface.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Newtonsoft.Json.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OOXML.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.Pdf.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.XLS.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\SunnyUI.Common.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\SunnyUI.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\System.Collections.NonGeneric.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Microsoft.mshtml.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\FastReport.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Newtonsoft.Json.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\NPOI.OOXML.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.Pdf.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\bin\Release\Spire.XLS.xml
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.ResolveComReference.cache
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Controls.Btn.UCBtnExtNew.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_ChartShow.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PhotoReportUtility_HASETRI.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PhotoReportUtility_JinYu.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_SpringRateSteup.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_About.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_Logo.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PhotoReportUtility.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_PlotPackageUtility.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ActionForms.Frm_SLR.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ShowDialog.FrmCircleBase.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ShowDialog.Frm_FileName.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.ShowDialog.Frm_Sd_Excel.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.TMSI_MFLD_Main.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Form2.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.MainForm.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiPublic.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiResource.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.ReportPreview.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.Resources.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Forms.TMSI_MFLD_Main.en-GB.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiPublic.en-US.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.Properties.TmsiResource.en-US.resources
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.GenerateResource.cache
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.CoreCompileInputs.cache
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\en-GB\TMSI_MFLD.resources.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\en-US\TMSI_MFLD.resources.dll
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.CopyComplete
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.exe
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.pdb
+C:\Users\wzy\Desktop\刚性\mfld-analyss-software-new - 副本\TMSI_MFLD\obj\Release\TMSI_MFLD.csproj.AssemblyReference.cache
